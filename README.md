@@ -20,8 +20,8 @@ This system solves all three by combining vector similarity with a knowledge gra
 ---
 
 ## Architecture
+<img width="2560" height="1440" alt="Screenshot 2025-06-10 at 3 23 16 PM (2)" src="https://github.com/user-attachments/assets/4446a704-4a58-4ff0-bc0a-6c16a161d8b9" />
 
-![Graph RAG Architecture](docs/architecture.png)
 
 ### Five-step pipeline
 
